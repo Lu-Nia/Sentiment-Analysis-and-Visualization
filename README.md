@@ -1,5 +1,5 @@
 
-Sentiment Analysis and Visualization
+#Sentiment Analysis and Visualization
 Overview
 This repository contains a Jupyter Notebook for performing sentiment analysis and data visualization on the Amazon Kindle Book Reviews dataset. The project leverages Natural Language Processing (NLP) techniques to analyze customer reviews, classify sentiments, and present the results through insightful visualizations.
 
