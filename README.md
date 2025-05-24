@@ -52,7 +52,7 @@ Usage
 
 Preprocessing: Clean and prepare the dataset for analysis.
 
-Sentiment Analysis: Use NLP models to classify review sentiments.
+Sentiment Analysis: Use NLTK to classify review sentiments.
 
 Visualization: Generate visualizations to explore sentiment trends and insights.
 
